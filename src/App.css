@@ -10,7 +10,5 @@
   width: 30%;
   border: 1px solid #000;
   margin: 1px;
-}
-.dd {
-  color: black;
+  border-radius: 20px;
 }
